@@ -5,5 +5,5 @@ __pycache__/
 
 /lightControl/codes
 /lightControl/config.py
-*.pem
 /lightControl/start.sh
+*.pem
